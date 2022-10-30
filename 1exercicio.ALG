@@ -5,5 +5,5 @@ Var
 Inicio
    escreva("Digite seu endereço:")
    leia(endereco)
-   escreva("Seu endereçõ é:" + endereco)
+   escreva("Seu endereço é: " + endereco)
 Fimalgoritmo
